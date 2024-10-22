@@ -3,13 +3,13 @@
 Welcome to my GitHub profile! I'm a passionate developer who enjoys building software that makes a difference. Here’s a little about me:
 
 ## About Me
-- 💻 I’m focused on **Python**and **Web Development**.
+- 💻 I’m focused on **Python** and **Web Development**.
 - 🌱 Currently learning more about Web Development:
 - 🌱 Diving deeper into Full-Stack Web Development with frameworks like React and Django.
 - 🎯 My goal is to contribute to open-source projects and collaborate with other developers.
 
 ## What I Do:
-- 🛠️ Specialize in backend development, working with Python, Flask, and Django.
+- 🛠️ Specialize in backend development, working with Python, and Django.
 - 🌍 Enthusiastic about using cloud platforms like **AWS**.
 - 🔍 Always exploring new technologies and frameworks to expand my skills.
 
