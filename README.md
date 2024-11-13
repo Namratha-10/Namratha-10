@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building sof
 - 🔍 Always exploring new technologies and frameworks to expand my skills.
 
 ## Get in Touch:
-- 📧 [Email](namrathagangadhar07@gmail.com)
-- 💼 [LinkedIn](www.linkedin.com/in/namrathac10)
+- 📧 (namrathagangadhar07@gmail.com)
+- 💼 (https://www.linkedin.com/in/namrathac10/)
 
 Thanks for visiting my GitHub profile!
 
